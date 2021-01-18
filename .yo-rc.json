@@ -4,7 +4,7 @@
       "packageName": "com.wangxiaoyang.uaa",
       "nativeLanguage": "zh-cn"
     },
-    "jhipsterVersion": "6.10.5",
+    "jhipsterVersion": "6.1.2",
     "applicationType": "uaa",
     "baseName": "uaa",
     "packageName": "com.wangxiaoyang.uaa",
@@ -77,9 +77,6 @@
       "uz-Latn-uz",
       "vi"
     ],
-    "skipClient": true,
-    "embeddableLaunchScript": false,
-    "creationTimestamp": 1610958165610,
-    "blueprints": []
+    "skipClient": true
   }
 }
